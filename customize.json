@@ -1,9 +1,9 @@
 {
-  "greeting": "Hiya",
-  "name": "Lydia",
+  "greeting": "Hi",
+  "name": "Sandip",
   "greetingText": "I really like your name btw!",
   "wishText": "May the js.prototypes always be with you! ;)",
-  "imagePath": "img/lydia2.png",
+  "imagePath": "https://pbs.twimg.com/profile_banners/1479768107321278465/1665910747/600x200",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
   "sendButtonLabel": "Send",
